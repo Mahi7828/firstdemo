@@ -1,5 +1,6 @@
 # firstdemo
-This is my first git repository. 
+
+This is my first git repository.
 <br>
 
-Author - Mahima Sahu 
+Author - Mahima Sahu (IIT BOMBAY)
